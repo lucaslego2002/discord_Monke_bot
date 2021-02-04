@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------------------------
+Normal Commands:
+
+  Required prefix for commands (not case sensitive): "hey monke," or "hm," 
+
+   "help"  | Monke displays help text
+   "please shut the fuck up"  | Monke ignores your profanity
+   "I'm sorry"  | Reverts the command above, monke stops ignoring your profanity
+
+
+Blackjack Commands:
+
+  Required prefix for blackjack commands (not case sensitive): "blackjack" or "bj" 
+
+    "start 5"  | starts a game of blackjack, with a specified bet (e.g. 5)
+    "hit"  | draw a card
+    "stand" | stop drawing cards and let Monke take his turn
+    "double down"  | double your bet (if possible), hit then stand (refer to above)
+    "view"  | Monke shows your hand again
+    "bal"  | Monke shows your account balance
+-------------------------------------------------------------------------------------------------
